@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/judith-lucy-breast-cancer-australia/sitemap.xml
+Sitemap: https://judith-lucy-breast-cancer-australia.vercel.app/sitemap-vercel.xml
+Sitemap: https://judith-lucy-breast-cancer-australia.pages.dev/sitemap-cloudflare.xml
